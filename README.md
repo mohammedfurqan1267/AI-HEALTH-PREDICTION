@@ -102,5 +102,5 @@ Once the server starts, the app will open automatically in your browser.
 
 ## 10. Author
 
-<!-- **Mohammed Furqan**   -->
-Final Year Project — AI & ML
+ **Mohammed Furqan**
+
